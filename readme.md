@@ -40,3 +40,5 @@ Login : admin / admin
 Screenshoots
 *******************
 ![screenshoots](screenshoots/ss3.png)
+![screenshoots](screenshoots/ss5.png)
+![screenshoots](screenshoots/ss6.png)
